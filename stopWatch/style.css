@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+}
+
+.container-fluid{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+}
+
